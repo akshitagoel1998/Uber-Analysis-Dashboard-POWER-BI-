@@ -1,4 +1,4 @@
-# Uber-Analysis-Dashboard-POWER-BI-
+# Uber-Analysis-Dashboard(POWERBI)
 🚗📊 Uber Trip Analysis using Power BI
 
 
